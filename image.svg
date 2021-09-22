@@ -1,8 +1,7 @@
 <svg fill="none" width="500" height="200" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-      <p class="alert-danger"> Notice : This Repository are marked as Work In Progress. Until further notices / commit, it will be basically a default Laravel 8 framework. </p>
+      <p class="padding: 15px; color: #721c24; border-radius: 7px; border-color: #f5c6cb; font-family: Arial; background-color: #f8d7da"> Notice : This Repository are marked as Work In Progress. Until further notices / commit, it will be basically a default Laravel 8 framework. </p>
     </div>
   </foreignObject>
 </svg>
