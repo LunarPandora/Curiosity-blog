@@ -1,0 +1,7 @@
+<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <p style="padding: 15px; border-radius: 7px; background-color: #dc3545; color: white;"> Notice : This Repository are marked as Work In Progress. Until further notices / commit, it will be basically a default Laravel 8 framework. </p>
+    </div>
+  </foreignObject>
+</svg>
