@@ -1,7 +1,7 @@
-<svg fill="none" width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="900" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <p class="padding: 15px; color: #721c24; border-radius: 7px; border-color: #f5c6cb; font-family: Arial; background-color: #f8d7da"> Notice : This Repository are marked as Work In Progress. Until further notices / commit, it will be basically a default Laravel 8 framework. </p>
+      <p style="padding: 15px; color: #721c24; border-radius: 7px; border-color: #f5c6cb; font-family: Arial; background-color: #f8d7da"> Notice : This Repository are marked as Work In Progress. Until further notices / commit, it will be basically a default Laravel 8 framework. </p>
     </div>
   </foreignObject>
 </svg>
